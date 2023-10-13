@@ -1,5 +1,5 @@
 function handleUserRegistraion() {
 
-    storeDataIntoDb()
+    checkUniqueEmailThenStoreData()
 
 }
